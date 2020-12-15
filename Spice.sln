@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spice", "Spice.csproj", "{1AC963C1-16F9-4B7B-A8E6-31FA956BA666}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AC963C1-16F9-4B7B-A8E6-31FA956BA666}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AC963C1-16F9-4B7B-A8E6-31FA956BA666}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AC963C1-16F9-4B7B-A8E6-31FA956BA666}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AC963C1-16F9-4B7B-A8E6-31FA956BA666}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6475C646-9719-4E02-A32D-727FDB965943}
+	EndGlobalSection
+EndGlobal
